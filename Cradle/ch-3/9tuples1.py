@@ -16,3 +16,7 @@ tup2 = (1, 2, 3, 4)
 # in case of multiple elements either of them will do
 print(tup1)
 print(tup2)
+
+# slicing in tuples
+tup = (1, 2, 3, 4)
+print(tup[0:3])

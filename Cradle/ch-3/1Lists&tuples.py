@@ -36,3 +36,4 @@ print(tup[0])
 print(tup[2])
 # tup[0] = 5        3'tuple' object does not support item assignment
 # since tuples are immutable
+# slicing is valid in tuples

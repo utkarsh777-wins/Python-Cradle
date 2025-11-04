@@ -1,9 +1,9 @@
 # not supported between instances of 'str' and 'int'
 # hence is why these two are done seperately
 
-list.sort
-print(list)
+
 list = ['a', 'b', 'c', 'z', 'd']
+list.sort()
 print(list)
 list.append('x')
 print(list)
