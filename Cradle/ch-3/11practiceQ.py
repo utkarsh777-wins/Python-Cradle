@@ -12,3 +12,10 @@ movies.append(input("Enter 2nd movies: "))
 movies.append(input("Enter 3rd movie: "))
 print(movies)
 
+
+
+
+#heheh works XD
+list = []
+list.append(["a", "b", "c", "d"])
+print(list)
