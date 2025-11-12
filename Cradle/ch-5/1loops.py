@@ -13,3 +13,11 @@ print("hellow")
 print("hellow")
 #manually doing it n times will fill the files storage 
 #plus code readability gets dicey
+
+"""
+for working upon iterators we use while loop
+--in case ofsome variable we are working with and a stopping condtition
+
+for traverseing over some datatype [list,tup,str]
+--in thiscase we use for loop
+"""
