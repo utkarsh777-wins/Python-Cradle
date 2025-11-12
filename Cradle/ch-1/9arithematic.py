@@ -12,3 +12,4 @@ print(a / b)
 # if a = 4 then answer would've been 2.0
 print(a % b) #remainder
 print(a **  b) #a^b
+print(a // b) #floor division #non decimal quotient

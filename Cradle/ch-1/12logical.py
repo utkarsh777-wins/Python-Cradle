@@ -8,7 +8,7 @@ print(not True)
 a = 50
 b = 30
 print(not (a > b))
-# opposite value of actyal boolean values
+# opposite value of actual boolean values
 
 # and
 # works upon various operands

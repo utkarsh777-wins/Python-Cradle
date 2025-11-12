@@ -4,7 +4,7 @@ used to convert fromm one data type to another datatype
 manual force 
 converting stringn to int and more
 int, float can be used but ofc there's a limit to this
-there needs to a valid number, then only type-casting will caste it's magic
+there needs to be a valid number, then only type-casting will caste it's magic
 
 """
 
