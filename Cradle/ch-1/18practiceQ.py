@@ -13,7 +13,7 @@ First_num = float(input("Enter first number: "))
 Second_num = float(input("Second number: "))
 print("Their Average is: ", (First_num + Second_num) / 2)
 
-# Write a prorgam to input 2 int numbers, a and b
+# Write a program to input 2 int numbers, a and b
 # Print True if a greater than or equal  to b. If not  print False.   ####
 n1 = int(input("Enter first number: "))
 n2 =  int(input("Enter second number: "))
