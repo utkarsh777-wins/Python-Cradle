@@ -12,5 +12,6 @@ str1 = "indexing"
 # ch = str1[0]
 # print(ch)
 print(str1[4])
-
+print(str1[3])
+# print(str1[9])  string index out of range
 # in the form of index we can only access character, cannot manipulate them directly

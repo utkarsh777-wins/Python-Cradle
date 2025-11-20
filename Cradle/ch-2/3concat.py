@@ -6,3 +6,7 @@ str2 = "Kami"
 final_str = str1 + str2
 print(final_str)
 
+s = "How"
+t = "are"
+r = "you"
+print(s + " " + t + " " + r + "?")
