@@ -19,3 +19,4 @@ if(copy_list1 == list1):
 else:
     print("Not Palindrome")
 copy_list2 = list2.copy()
+#define function here

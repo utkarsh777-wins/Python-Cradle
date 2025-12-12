@@ -4,7 +4,7 @@ print("Cooking it!")
 """
 
 this is a multi line commment
-comments do not affect the excution of code.
+comments do not affect the execution of code.
 short cut- ctrl + /
 
 """

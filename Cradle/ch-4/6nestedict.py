@@ -11,4 +11,4 @@ student = {
 
 print(student)
 print(student["subjects"]["CS"])
-#nesteed printing (o/P: 99 --value for that key)
+#nested printing (o/P: 99 --value for that key)

@@ -6,7 +6,7 @@
 #tuples- immutable
 
 """
-tup = (2, 1, 3, 2)      #listing within pranthesis
+tup = (2, 1, 3, 2)      #listing within paranthesis
 print(tup[0])
 print(tup[2])
 # tup[0] = 5        3'tuple' object does not support item assignment

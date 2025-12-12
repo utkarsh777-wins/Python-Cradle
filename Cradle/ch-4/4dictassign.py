@@ -8,7 +8,7 @@ info = {
 
 
 }
-
+print(info)
 #assgning the existing keys - new values
 info["age"] = 21        #overwrite
 info["name"] = "Utkarsh"       

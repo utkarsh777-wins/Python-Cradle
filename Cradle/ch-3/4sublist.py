@@ -4,7 +4,7 @@
 marks = [10, 40, 56, 78, 99]
 print(marks[1:4])
 print(marks[:4])     #will exclude ending index
-print(marks[0:])    #will include all the elements
+print(marks[0:])    #will include all the elements of the list
 
 # negative indexing
 print(marks[-3:-1])

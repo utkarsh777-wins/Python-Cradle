@@ -5,9 +5,12 @@
 list = ['a', 'b', 'c', 'z', 'd']
 list.sort()
 print(list)
+list.sort(reverse = True)
 list.append('x')
 print(list)
 list.reverse()
 print(list)
 list.insert(3, 's')
+print(list)
+list.insert(0, "z")
 print(list)

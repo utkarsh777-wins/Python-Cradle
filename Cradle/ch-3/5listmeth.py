@@ -12,11 +12,11 @@ print(list)
 list.append(4)  #adds one element at the end 
 list.sort() #sorts in ascending order
 list.sort( reverse=True )  #sorts in descending order
-print(list)  #reverse list
+list.reverse()  #reverse list
 # list.insert( idx,el )
 list.insert( 1,4 )
 list.remove(1)  #removes first occurence of element
-list.pop( idx ) #removes ellement at index
+list.pop( idx ) #removes element at index
 
 
 """

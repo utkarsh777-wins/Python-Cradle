@@ -4,5 +4,5 @@ tup.count( el ) #counts total occurences
 
 """
 tup = (2, 1, 3, 2)
-print(tup.index(3))
+print(tup.index(2))
 print(tup.count(2))
