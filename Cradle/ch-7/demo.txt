@@ -1,0 +1,20 @@
+Essence of Python 
+C:\Users\Utkarsh\OneDrive\Desktop\Python\Cradle\ch-7\demo.txt
+Nah this won't do, use relative path
+Cradle\ch-7\demo.txt
+\c is causing issues as it is somwthing like esc sequence in c and Python can't iterprate it 
+so we use 
+
+r tells pythons to use\c literally 
+f = open(r"Cradle\ch-7\demo.txt", "r")
+The r tells Python to treat backslashes literally
+
+double backslash
+f = open("Cradle\\ch-7\\demo.txt", "r")
+Each \\ becomes a single backslash in the actual path.
+
+use forward slash
+f = open("Cradle/ch-7/demo.txt", "r")
+Python and the OS handle these correctly in most cases
+
+any of these three will work

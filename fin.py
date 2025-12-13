@@ -62,9 +62,13 @@
 #     f.write(item + "\n")
 # f.close()
 
+# f = open("fruits.txt", "r")
+# line = f.readlines()
+# f.close()
+# for i in enumerate(line, start = 1):
+#     a = []
+#     a.append(i)
 f = open("fruits.txt", "r")
-line = f.readlines()
-f.close()
-for i in enumerate(line, start = 1):
-    a = []
-    a.append(i)
+f1 = f.read()
+print(f1)
+print(type(f1))

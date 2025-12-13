@@ -7,7 +7,7 @@ print(a + b)
 
 """
 float is superior as compared to integer
-because it contaains extra information(eg 2.153)
+because it contains extra information(eg 2.153)
 hence, python will convert int into its superior value automatically
 (implicit conversion)
 """
