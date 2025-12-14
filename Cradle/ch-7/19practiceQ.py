@@ -9,7 +9,7 @@ def check_for_word():
         print("Does not exist")
 
 def check_for_line():
-   word = "learning"   
+   # word = "learning"   
    data = True
    line_no = 1
    with open("practice.txt", "r") as f:
@@ -23,6 +23,7 @@ def check_for_line():
 
    return -1
 
+word = input()
 check_for_line()
 
 

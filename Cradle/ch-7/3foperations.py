@@ -13,7 +13,7 @@
 -r+: read + overwrite(pointer at the very beginning) --no truncate
 -w+: read + overwrite --truncate
 -a+: read + append(pointer at the end) --no truncate
--- without a specific mode=>by default the fie will be at read mode
+-- without a specific mode=>by default the file will be at read mode
 -- truncating refers to overwriting a file --deleting the existing data and write
 
 """

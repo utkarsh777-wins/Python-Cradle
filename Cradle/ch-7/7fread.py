@@ -5,7 +5,7 @@ data = f.read()
 print(data)
 
 #since we've already read the file,
-#readlines will give empty output as theres simply nothing else to read
+#readline will give empty output as theres simply nothing else to read
 
 line1 = f.readline()
 print(line1)
