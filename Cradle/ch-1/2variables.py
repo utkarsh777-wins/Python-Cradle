@@ -7,7 +7,7 @@ age2 = age  #other variables can be assigned
 
 print("name")   #as it is whenever in double quotes
 print("kami-sama")
-print("MY name is:", name)
+print("My name is:", name)
 print("My age is:", age)
 print(age2)
 
