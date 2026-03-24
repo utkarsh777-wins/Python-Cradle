@@ -1,0 +1,5 @@
+# Ignore all MP4 and MOV files
+*.mp4
+*.mov
+# Ignore specific project exports
+Final_Flood_Project.mp4
